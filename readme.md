@@ -1,6 +1,6 @@
 # Group 2
 ## Product Owner
-- Ankith Gopi Krishna Avula
+- Noor Mohammed Vempalli
 
 ## Scrum Master
 - Lakshmi Vaishnav Reddy Dandu
